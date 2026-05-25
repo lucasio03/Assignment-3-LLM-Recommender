@@ -1,0 +1,31 @@
+# Python-generated files
+__pycache__/
+**/__pycache__/
+*.py[oc]
+*.pyd
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Local data files
+*.sqlite
+embeddings/
+embeddings.zip
+
+# Optional cloud test variants (do not commit)
+app_cloud.py
+recommender_cloud.py
+
+# Assignment helper docs (do not commit)
+Instructions.txt
+README.md
+
+# Report source documents (do not commit)
+report/*.docx
