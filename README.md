@@ -22,7 +22,7 @@ The system returns top game matches and a short explanation based on user intent
 
 Prebuilt embeddings are not included in this repository due to file size limits.
 
-Download `embeddings.zip` from the submission link and extract it at the project root.
+Download `embeddings.zip` from the submission and extract it at the project root.
 After extraction, these files must exist:
 
 - `embeddings/faiss.index`
